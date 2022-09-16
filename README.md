@@ -9,7 +9,7 @@
 
 -----
 
-### How I got idea and offer for Internship ?
+## How I got idea and offer for Internship ?
 
 - I didn't have any idea about what I will do in my summer break time may be I will do full time job at Mcdonald's with minimum wage.
 - After my final exams for first year in my course, I put my LinkedIn profile as "Seeking for Summer Internship or Full Time Temparory Job".
@@ -31,7 +31,7 @@
 
 -----
 
-### What happened after I applied as Intern?
+## What happened after I applied as Intern?
 
 - I recieved below message from recruiter 
 
@@ -119,7 +119,7 @@
  
  -----
  
- ### Internship Experience 
+ ## Internship Experience 
  
  - First Month
  
@@ -146,7 +146,7 @@
   
 ------
  
- ### How I received an offer before my graduation ?
+ ## How I received an offer before my graduation ?
  
  - At last day of my internship, I recieved call from my recruiter "Dhruv, congratulations and good job in presentation, And I have another good news for    you that we are extending Full Time Offer as Associate Application Developer after completing your remaining 1 Year Study and you can start after 2-3      months of your graduation with us."
  
@@ -157,7 +157,7 @@
  
 -----
 
-### Some Good Tips 
+## Some Good Tips 
 
  - Stay Updated on LinkedIn
  - Make Good and Helpful Connections
@@ -169,8 +169,8 @@
  
  - **Most Important : Your Hobbies, Games, Enjoyment, Friends (It will help us to maintain Work-Life Balance)**
 
-#### Thank You 
-#### Dhruv Patel
+### Thank You 
+### Dhruv Patel
  
  
 
