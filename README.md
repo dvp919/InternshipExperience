@@ -1,4 +1,8 @@
-# Internship Experience
+# Internship Experience and Learning Outcome
+
+-----
+
+## Introduction
 
 ### I am current student of Information Technology Solutions from Humber College and expected to be graduate in April 2023, This post will give you brief idea about how I completed internship in my summer college break with tons of hands-on experience about new technologies and learning while working with industry and how I secured my full time position before my graduation in same field.
 
@@ -29,7 +33,7 @@
 
 ### What happened after I applied as Intern?
 
-- I recieved below replay from recruiter 
+- I recieved below message from recruiter 
 
               Hi Dhruv! Is there any chance we can have a quick phone interview today?
 
@@ -152,6 +156,18 @@
  - And This company is none other than coming in Top 500 Fortune company known as ADP (Automatic Data Processing) based in US.
  
 -----
+
+### Some Good Tips 
+
+ - Stay Updated on LinkedIn
+ - Make Good and Helpful Connections
+ - Help your friends/strangers by referring your connections
+ - Stay up-to-date with new and upcoming openings
+ - Attend guest speaker
+ - Professional Communication 
+ - Always be Honest 
+ 
+ - **Most Important : Your Hobbies, Games, Enjoyment, Friends (It will help us to maintain Work-Life Balance)**
 
 #### Thank You 
 #### Dhruv Patel
